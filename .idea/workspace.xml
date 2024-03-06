@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="stm32-STM32F407ZGT6-proj" targetName="stm32-STM32F407ZGT6-proj.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9d4a3bc-ccb0-4a66-935d-48429611ad99" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="3.1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dJRxtQv0HhhroAicOubZp5cjGE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.stm32-STM32F407ZGT6-proj.elf.executor": "Run",
+    "OpenOCD Download & Run.OCD stm32-STM32F407ZGT6-proj.executor": "Run",
+    "OpenOCD Download & Run.stm32-STM32F407ZGT6-proj.elf.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/mikuc/Desktop/stm32-STM32F407ZGT6-proj",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mikuc\Desktop\stm32-STM32F407ZGT6-proj" />
+      <recent name="C:\Users\mikuc\Desktop\stm32-STM32F407ZGT6-proj\User\inc" />
+      <recent name="C:\Users\mikuc\Desktop\stm32-STM32F407ZGT6-proj\Libraries\User\src" />
+      <recent name="C:\Users\mikuc\Desktop\stm32-STM32F407ZGT6-proj\Libraries\User\inc" />
+      <recent name="C:\Users\mikuc\Desktop\stm32-STM32F407ZGT6-proj\Libraries\CMSIS\inc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mikuc\Desktop\stm32-STM32F407ZGT6-proj\Core\inc" />
+      <recent name="C:\Users\mikuc\Desktop\stm32-STM32F407ZGT6-proj\CMSIS" />
+      <recent name="C:\Users\mikuc\Desktop\stm32-STM32F407ZGT6-proj" />
+      <recent name="C:\Users\mikuc\Desktop\stm32-STM32F407ZGT6-proj\FWLIB" />
+      <recent name="C:\Users\mikuc\Desktop\stm32-STM32F407ZGT6-proj\Libraries" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.stm32-STM32F407ZGT6-proj.elf">
+    <configuration name="stm32-STM32F407ZGT6-proj.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm32-STM32F407ZGT6-proj" TARGET_NAME="stm32-STM32F407ZGT6-proj.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="stm32-STM32F407ZGT6-proj" RUN_TARGET_NAME="stm32-STM32F407ZGT6-proj.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stm32-STM32F407ZGT6-proj.elf" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="stm32-STM32F407ZGT6-proj" TARGET_NAME="stm32-STM32F407ZGT6-proj.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="stm32-STM32F407ZGT6-proj" RUN_TARGET_NAME="stm32-STM32F407ZGT6-proj.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="board/stm32f4discovery.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger toolchainName="MinGW-Stm32" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.stm32-STM32F407ZGT6-proj.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.stm32-STM32F407ZGT6-proj.elf" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9d4a3bc-ccb0-4a66-935d-48429611ad99" name="Changes" comment="" />
+      <created>1709724444306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709724444306</updated>
+      <workItem from="1709724490460" duration="2465000" />
+      <workItem from="1709727051810" duration="525000" />
+      <workItem from="1709727610792" duration="661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>
